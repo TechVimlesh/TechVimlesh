@@ -58,3 +58,5 @@
 <a href="https://github.com/techvimlesh">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techvimlesh&theme=codeSTACKr" height="180em" />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/techvimlesh/techvimlesh/output/github-contribution-grid-snake.svg)
