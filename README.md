@@ -46,13 +46,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vimlesh4uw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vimlesh4uw" /></a></p><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvimlesh&layout=compact&theme=" alt=techvimlesh />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=techvimlesh&show_icons=true&locale=en&theme=material" alt="techvimlesh" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=techvimlesh&theme=default" alt="techvimlesh" /></p>
-
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/techvimlesh">
